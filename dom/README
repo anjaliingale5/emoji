@@ -1,0 +1,19 @@
+# DOM Style Manipulation Project
+
+This project demonstrates how to manipulate the style of a `<div>` element using the DOM.
+
+## Instructions
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/anjaliingale5/dom-style-manipulation.git
+    ```
+
+2. Open the `index.html` file in your web browser.
+
+3. View the styled `<div>` element with the specified properties.
+
+## Live Version
+
+You can view the live version of this project [here](https://anjaliingale5.github.io/dom-style-manipulation/).
